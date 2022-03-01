@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Special Elite;
+    min-width: 400px;
+}
+
+#inputGroup-sizing-default {
+    background-color: #96D7A4;
+    border: none;
+}
+
+input {
+
+    padding: 10px 10px 10px 10px;
+    box-sizing: border-box;
+    border: 5px solid #96D7A4;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+   margin-top: 5px; 
+}
+
+li a {
+    color: #96D7A4;
+}
+
+.btn-success {
+    background-color: white;
+    color: #96D7A4;
+    border: 3px solid #96D7A4;
+    padding-top: 10px;
+}
+
+#input-btn, #tab-btn {
+    background-color: #1E9663;
+    border: 3px solid #0D7A4B;
+    color: white;
+}
+
+#tab-btn {
+    background-color: #96D7A4;
+    border: 3px solid #96D7A4;
+}
